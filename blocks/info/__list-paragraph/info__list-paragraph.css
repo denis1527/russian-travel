@@ -1,0 +1,10 @@
+.info__list-paragraph {
+    margin: 0 0 2px 0;
+    font-size: 12px;
+    line-height: 16px;
+    font-weight: 400;
+    color: #ffffff;
+  }
+  .info__list-paragraph:last-child {
+    margin: 0 0 0 0;
+  }

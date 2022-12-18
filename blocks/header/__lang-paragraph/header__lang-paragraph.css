@@ -1,0 +1,6 @@
+.header__lang-paragraph {
+    margin-right: 18px;
+  }
+  .header__lang-paragraph:last-child {
+    margin-right: 0;
+  }
