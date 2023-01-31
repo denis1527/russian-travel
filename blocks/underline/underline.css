@@ -1,7 +1,0 @@
-.underline{
-    text-decoration: none;
-    transition: linear .1s;
-}
-.underline:hover{
-    box-shadow: 0 1px 0 0 #ffffff;
-  }

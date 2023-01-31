@@ -10,6 +10,7 @@
   .cover {
     max-width: 100%;
     margin: 0 auto 92px;
+    min-height: 640px;
   }
 }
 
