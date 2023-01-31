@@ -1,6 +1,6 @@
 .cover {
   display: flex;
-  margin: 0 auto 92px;
+  margin: 0 auto 88px;
   max-width: 1184px;
   min-height: 740px;
   position: relative;
@@ -9,5 +9,14 @@
 @media (min-width: 769px) and (max-width: 1024px) {
   .cover {
     max-width: 100%;
+    margin: 0 auto 92px;
+  }
+}
+
+@media (min-width: 320px) and (max-width: 767px) {
+  .cover {
+    min-width: 320px;
+    min-height: 200px;
+    margin: 0 auto 64px;
   }
 }

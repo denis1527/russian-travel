@@ -12,10 +12,12 @@
   z-index: 10;
 }
 
-@media (max-width: 425px) {
+@media (min-width: 320px),(max-width: 424px) {
   .cover__subtitle {
-    width: 100%;
+    width: 288px;
     font-size: 14px;
-    line-height: 18px;
+    line-height: 16px;
+    height: 48px;
+    margin: 16px auto 33px;
   }
 }

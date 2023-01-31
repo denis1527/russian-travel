@@ -9,8 +9,7 @@
 
 @media (min-width: 769px) and (max-width: 1024px) {
   .header {
-    margin: 28px auto 48px;
-    max-width: calc(100% - 96px);
+    margin: 16px 16px 16px 48px;
   }
 }
 
