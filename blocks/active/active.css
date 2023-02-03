@@ -1,8 +1,0 @@
-.active {
-    text-decoration: underline;
-    opacity: 1;
-}
-
-.active:hover {
-    box-shadow: none;
-}
